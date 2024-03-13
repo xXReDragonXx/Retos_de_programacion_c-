@@ -44,9 +44,14 @@ namespace PracticasCSharp
                     * - NO hace falta comprobar que ambas palabras existan.
                     * - Dos palabras exactamente iguales no son anagrama.
                     */
-                case 69:
+                case 3:
                     Reto EsAnagrama = new Reto();
-                    EsAnagrama.Anagramaono("vaaaa", "vaaaa");
+                    EsAnagrama.Anagramaono("amor", "roma");
+                    break;
+
+                case 4:
+                    Reto SFibonacci = new Reto();
+                    SFibonacci.Fibonacci(50);
                     break;
             }
             
