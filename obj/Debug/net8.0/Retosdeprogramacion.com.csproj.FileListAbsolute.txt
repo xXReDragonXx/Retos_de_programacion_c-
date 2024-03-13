@@ -1,0 +1,15 @@
+C:\Users\JAMX-LP-129\source\repos\Retosdeprogramacion.com\bin\Debug\net8.0\Retosdeprogramacion.com.dll
+C:\Users\JAMX-LP-129\source\repos\Retosdeprogramacion.com\obj\Debug\net8.0\Retosdeprogramacion.com.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JAMX-LP-129\source\repos\Retosdeprogramacion.com\obj\Debug\net8.0\Retosdeprogramacion.com.AssemblyInfoInputs.cache
+C:\Users\JAMX-LP-129\source\repos\Retosdeprogramacion.com\obj\Debug\net8.0\Retosdeprogramacion.com.AssemblyInfo.cs
+C:\Users\JAMX-LP-129\source\repos\Retosdeprogramacion.com\obj\Debug\net8.0\Retosdeprogramacion.com.csproj.CoreCompileInputs.cache
+C:\Users\JAMX-LP-129\source\repos\Retosdeprogramacion.com\obj\Debug\net8.0\Retosdeprogramacion.com.sourcelink.json
+C:\Users\JAMX-LP-129\source\repos\Retosdeprogramacion.com\bin\Debug\net8.0\Retosdeprogramacion.com.exe
+C:\Users\JAMX-LP-129\source\repos\Retosdeprogramacion.com\bin\Debug\net8.0\Retosdeprogramacion.com.deps.json
+C:\Users\JAMX-LP-129\source\repos\Retosdeprogramacion.com\bin\Debug\net8.0\Retosdeprogramacion.com.runtimeconfig.json
+C:\Users\JAMX-LP-129\source\repos\Retosdeprogramacion.com\obj\Debug\net8.0\Retosdeprogramacion.com.dll
+C:\Users\JAMX-LP-129\source\repos\Retosdeprogramacion.com\obj\Debug\net8.0\refint\Retosdeprogramacion.com.dll
+C:\Users\JAMX-LP-129\source\repos\Retosdeprogramacion.com\obj\Debug\net8.0\Retosdeprogramacion.com.pdb
+C:\Users\JAMX-LP-129\source\repos\Retosdeprogramacion.com\obj\Debug\net8.0\Retosdeprogramacion.com.genruntimeconfig.cache
+C:\Users\JAMX-LP-129\source\repos\Retosdeprogramacion.com\bin\Debug\net8.0\Retosdeprogramacion.com.pdb
+C:\Users\JAMX-LP-129\source\repos\Retosdeprogramacion.com\obj\Debug\net8.0\ref\Retosdeprogramacion.com.dll
